@@ -10,6 +10,6 @@ I think Mechanistic Interpretability is a nice field to get into and it might be
 
 I might make a blog post out of this / use it for interview prep.
 
-My attempts at solving are in:
+My attempts at solving are in:  
 1-50_Numpy_exercises_etrama.ipynb  
 51-100_Numpy_exercises_etrama.ipynb
